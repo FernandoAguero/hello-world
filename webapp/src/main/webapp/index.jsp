@@ -1,4 +1,4 @@
-<h1>Azure DevOps Demo</h1>
+<h1>Azure CI/CD Demo</h1>
 <p> CI-0142 - Pruebas de Software </p>
 
 <h3>Miembros:</h3>
