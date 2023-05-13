@@ -1,5 +1,5 @@
-<h1>Azure CI/CD Demo</h1>
-<p> CI-0142 - Pruebas de Software </p>
+<h1>Seguridad Tarea pr&aacute;ctica 1 - Azure CI/CD</h1>
+<p> CI-0143 - Seguridad en Sistemas Computacionales </p>
 
 <h3>Miembros:</h3>
 <ul>
@@ -9,7 +9,7 @@
 </ul>
 
 <h3>Descripción</h3>
-<p>El projecto es para demostrar el flujo de CI/CD</p>
+<p>El projecto es para demostrar el funcionamiento de los certificados</p>
 
 <h3>Herramientas:</h3>
 <ul>
@@ -17,9 +17,7 @@
     <li>Jenkins</li>
     <li>Tomcat</li>
     <li>Java Backend</li>
-    <li>esto es una prueba</li>
 </ul> 
-
 
 <div>
     <label for="username">Username:</label>
@@ -31,3 +29,5 @@
     <input type="password" id="pass" name="password"
            minlength="8" required>
 </div>
+
+<input type="submit" value="Sign in">
