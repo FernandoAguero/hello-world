@@ -1,4 +1,4 @@
-<h1>Seguridad Tarea pr&aacute;ctica 1 - Azure CI/CD</h1>
+<h1>Seguridad Tarea pr&aacute;ctica 1 - con Azure CI/CD</h1>
 <p> CI-0143 - Seguridad en Sistemas Computacionales </p>
 
 <h3>Miembros:</h3>
@@ -6,10 +6,11 @@
     <li>Daniel Monge</li>
     <li>Fernando Aguero</li>
     <li>Jean Carlo Quesada</li>
+    <li>Emmanuel Solis</li>
 </ul>
 
-<h3>Descripción</h3>
-<p>El projecto es para demostrar el funcionamiento de los certificados</p>
+<h3>Descripci&oacute;n</h3>
+<p>El projecto es para demostrar el funcionamiento de los certificados para https</p>
 
 <h3>Herramientas:</h3>
 <ul>
@@ -17,6 +18,7 @@
     <li>Jenkins</li>
     <li>Tomcat</li>
     <li>Java Backend</li>
+    <li>maven</li>
 </ul> 
 
 
